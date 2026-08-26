@@ -1,6 +1,6 @@
 button {
     background-color: #007BFF; /* Cor azul */
-    color: white; /* Texto branco */
+    color: rgb(218, 75, 75); /* Texto branco */
     padding: 10px 20px; /* Espaçamento interno */
     border: none; /* Remove a borda padrão */
     border-radius: 5px; /* Arredonda os cantos */
